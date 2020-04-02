@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46933aa2-64b9-4b3c-9859-efd1cd3540b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Zj9bRy6TRO1TqC5xrSaP6rreH5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46933aa2-64b9-4b3c-9859-efd1cd3540b4" name="Default Changelist" comment="" />
+      <created>1585341706788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585341706788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="309" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585774558163">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state x="605" y="309" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/55.23.1625.1027@55.23.1625.1027" timestamp="1585774558163" />
+    <state x="680" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1585775243300">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state x="680" y="253" key="#com.intellij.ide.util.MemberChooser/55.23.1625.1027@55.23.1625.1027" timestamp="1585775243300" />
+    <state x="605" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585512178173">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state x="605" y="290" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/55.23.1625.1027@55.23.1625.1027" timestamp="1585512178173" />
+    <state x="544" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1585773666699">
+      <screen x="55" y="23" width="1625" height="1027" />
+    </state>
+    <state x="544" y="369" key="com.intellij.ide.util.TipDialog/55.23.1625.1027@55.23.1625.1027" timestamp="1585773666699" />
+  </component>
+</project>
